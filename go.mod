@@ -1,4 +1,4 @@
-module fyne/demo
+module github.com/r4wand/go-fyne-desktop-app-demo
 
 go 1.18
 
